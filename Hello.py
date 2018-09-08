@@ -1,2 +1,2 @@
 name = 'Инна'
-print('name')
+print(name) 
